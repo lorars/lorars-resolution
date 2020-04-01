@@ -29,6 +29,6 @@ function nama_fungsi ($parameter1, $parameter2)
    return $nilai_akhir
 }
 -Phyton
-Format menulis fungsi di python adalah
-def namafungsi():
-      statement(s)
+Coba-Fitur-2
+contoh format syntax pada Phyton:
+print "Hello World"
