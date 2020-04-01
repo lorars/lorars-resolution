@@ -1,5 +1,10 @@
 RENCANA CODING LORARS
 
 -Javascript
+Ada 4 cara yang bisa kita lakukan untuk membuat fungsi di Javascript:
+1. Menggunakan cara biasa;
+2. Menggunakan ekspresi;
+3. Menggunakan tanda panah (=>);
+4. Menggunakan Constructor.
 -PHP
 -Phyton
