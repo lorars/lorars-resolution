@@ -3,9 +3,24 @@ RENCANA CODING LORARS
 -Javascript
 Ada 4 cara yang bisa kita lakukan untuk membuat fungsi di Javascript:
 1. Menggunakan cara biasa;
+contoh format syntax:
+function namaFungsi(){
+    console.log("Hello World!");
+}
 2. Menggunakan ekspresi;
+contoh format syntax:
+var namaFungsi = function(){
+    console.log("Hello World!");
+}
 3. Menggunakan tanda panah (=>);
+contoh format syntax:
+var namaFungsi = () => {
+    console.log("Hello World!");
+    }
+    var namaFungsi = () => console.log("Hello World!");
 4. Menggunakan Constructor.
+contoh format syntax:
+var namaFungsi = new Function('console.log("Hello World!");');
 -PHP
 Untuk membuat fungsi di dalam PHP, berikut adalah format dasar pembuatan fungsi:
 function nama_fungsi ($parameter1, $parameter2)
@@ -14,3 +29,6 @@ function nama_fungsi ($parameter1, $parameter2)
    return $nilai_akhir
 }
 -Phyton
+Format menulis fungsi di python adalah
+def namafungsi():
+      statement(s)
