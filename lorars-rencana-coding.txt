@@ -14,3 +14,5 @@ function nama_fungsi ($parameter1, $parameter2)
    return $nilai_akhir
 }
 -Phyton
+contoh format syntax pada Phyton:
+print "Hello World"
