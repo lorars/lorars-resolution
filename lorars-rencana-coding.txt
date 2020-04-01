@@ -14,3 +14,6 @@ function nama_fungsi ($parameter1, $parameter2)
    return $nilai_akhir
 }
 -Phyton
+Format menulis fungsi di python adalah
+def namafungsi():
+      statement(s)
