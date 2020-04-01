@@ -7,4 +7,10 @@ Ada 4 cara yang bisa kita lakukan untuk membuat fungsi di Javascript:
 3. Menggunakan tanda panah (=>);
 4. Menggunakan Constructor.
 -PHP
+Untuk membuat fungsi di dalam PHP, berikut adalah format dasar pembuatan fungsi:
+function nama_fungsi ($parameter1, $parameter2)
+{
+   // kode program fungsi
+   return $nilai_akhir
+}
 -Phyton
